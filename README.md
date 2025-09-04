@@ -6,7 +6,7 @@ The objective was to transform the provided **Adobe XD design** into a pixel-per
 ---
 
 ## 🌐 Live Demo
-🔗 **Deployed on Vercel:** [PopX Internshala Assignment](https://popx-internshala-assignment.vercel.app)  
+🔗 **Deployed on Vercel:** [PopX Internshala Assignment](https://pop-x-internshala-assignment.vercel.app/)  
 
 📦 **GitHub Repository:** [View Source Code](https://github.com/kamal9205/PopX-Internshala-Assignment.git)
 
@@ -30,17 +30,17 @@ The objective was to transform the provided **Adobe XD design** into a pixel-per
 ---
 
 ## 📂 Project Structure
-PopX-Internshala-Assignment/
-│── src/
-│ ├── components/ → Reusable UI components
-│ ├── pages/ → Page components (Welcome, Login, Dashboard, etc.)
-│ ├── App.jsx → Main app with routes
-│ └── main.jsx → Entry point
-│── public/ → Static assets
-│── package.json
-│── tailwind.config.js
-│── README.md
 
+PopX-Internshala-Assignment/ 
+│── src/  
+│   ├── components/    → Reusable components (Buttons, Header, etc.)  
+│   ├── pages/         → Page components (Home, Login, Profile, etc.)  
+│   ├── App.jsx        → Main app with routes  
+│   └── main.jsx       → Entry point  
+│── public/            → Static assets  
+│── package.json  
+│── tailwind.config.js  
+│── README.md  
 
 ---
 
