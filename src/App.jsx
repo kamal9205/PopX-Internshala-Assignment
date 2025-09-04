@@ -7,7 +7,6 @@ import { UserProvider } from "./Context/UserContext";
 
 function App() {
   return (
-    
     <Router>
       <UserProvider>
         <Routes>
@@ -23,3 +22,4 @@ function App() {
 }
 
 export default App;
+
